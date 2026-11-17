@@ -2,7 +2,7 @@
 
 # 🤖 My First Steps in ROS 2
 
-**Foundational notes, core architecture concepts, and environment setup for ROS 2 Jazzy Jalisco on Ubuntu 24.04 LTS. Information based on Robotica con python, articulated robotics and Mastering ROS 2 for Robotics Programming from Lentin Joseph and Jonathan Cacace**
+**Foundational notes, core architecture concepts, and environment setup for ROS 2 Jazzy Jalisco on Ubuntu 24.04 LTS. Information based on resources from [Robótica con Python (Carlos Morales)](https://www.youtube.com/@roboticaconpython), [Articulated Robotics (Josh Newans)](https://www.youtube.com/@ArticulatedRobotics) and Mastering ROS 2 for Robotics Programming from Lentin Joseph and Jonathan Cacace.**
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy_Jalisco-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/jazzy/)
